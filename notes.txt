@@ -1,0 +1,21 @@
+GIt & GitHUb Tutorial---Net Ninja
+https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
+
+version2
+git --version
+git version 2.14.1
+cd ..
+ls
+mdir
+touch
+index.html
+style.css
+javascript.js
+test.txt
+rm 
+rmdir
+repo is a container for a project I can track with GitLocal/HUb
+commit is a safe point saved in our history with in our repo
+modified, staging, committed on a branch off the master branch
+creating repository
+git init
